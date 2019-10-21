@@ -8,8 +8,8 @@
   http_archive(
      name = "tilt_mac_x86_64",
      build_file_content = "exports_files(['tilt'])",
-     sha256 = "659db55ccdb12a5f77ca640680c6069a161343229d9c2aecbfc26c01442aa8e5",
-     urls = ["https://github.com/windmilleng/tilt/releases/download/v0.7.13/tilt.0.7.13.mac.x86_64.tar.gz"],
+     sha256 = "169f565eec61cc142b6450d6d9b44d51d241cc9b3915b07eb282e4eb713d2e2b",
+     urls = ["https://github.com/windmilleng/tilt/releases/download/v0.10.14/tilt.0.10.14.mac.x86_64.tar.gz"],
  )
 
 http_archive(
